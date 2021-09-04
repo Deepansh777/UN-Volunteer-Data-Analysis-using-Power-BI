@@ -12,3 +12,5 @@ Page 2: Demographic breakdown: Trends and key information of key demographic gro
 Page 3: Organization breakdown: Specific look into UN subsidiaries to track areas of operations
 
 **-Deepansh Arora**
+
+![](cold-spray-process.jpg)
