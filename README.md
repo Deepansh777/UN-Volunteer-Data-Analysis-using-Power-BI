@@ -13,4 +13,4 @@ Page 3: Organization breakdown: Specific look into UN subsidiaries to track area
 
 **-Deepansh Arora**
 
-![](cold-spray-process.jpg)
+![](UNDashboard_1.jpg)
